@@ -1,5 +1,5 @@
 # Make your shoe class here!
-class shoe
+class Shoe
 
   attr_accessors :color, :size, :material, :condition
 
